@@ -1,4 +1,4 @@
-require('../css/main.css');
+require('../css/main.scss');
 
 import a from "./modules/modA.js";
 
